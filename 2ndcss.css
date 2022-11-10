@@ -1,0 +1,255 @@
+*{
+	letter-spacing: 4px;
+	
+	padding: 0px;
+	margin: 0px;
+	background: ghostwhite;
+	font-family: 'Poppins', sans-serif;
+	box-sizing: border-box;
+
+}
+.logo{
+	padding: 0;
+	position: relative;
+	left: 1100px;
+	background: transparent;
+	top: -120px;
+}
+
+.logo img{
+	
+height: 175px;
+width: 275px;
+position: relative;
+right: 1040px;
+background: transparent;
+
+	
+}
+ul{
+	
+	position: sticky;
+	top: 0;
+	left: 0;
+
+
+}
+.cons{
+	position: relative;
+	left: 1000px;
+}
+
+.col-2{
+
+	display: flex;
+	align-items: center;
+	position: absolute;
+	top: 30px;
+	right: 50px;
+	text-align: right;
+	float: right;
+	clear: none;
+	text-decoration: none;
+	list-style: none;
+	 	box-sizing: border-box;
+	border-radius: 20px;
+
+}
+.buttons{
+	display:flex;
+	right: 70px;
+  flex-direction:row;
+  align-items:center;
+  list-style: none;
+  padding-top: 20px;
+  background: transparent;
+	cursor: pointer;
+}
+.suges{
+	position: relative;
+	right: 20px;
+	background: transparent;
+	
+
+	   
+
+}
+.srs{
+	display: flex;
+	align-items: center;
+	position: absolute;
+	top: 15px;
+	right: 475px;
+	text-align: right;
+	float: right;
+	clear: none;
+	text-decoration: none;
+	list-style: none;
+ 	background: transparent;
+
+}
+
+
+a{
+	position: relative;
+	display: inline;
+	color:  black;
+	list-style: none;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	background: transparent;
+	margin: 10px;
+	
+
+	
+	
+}
+ 
+
+
+.container3{
+	
+	background: #d9d9d9;
+	width: 100%;
+	height: 70px;
+	border-radius: 50px;
+
+}
+.searcj{
+	display: flex;
+	position: relative;
+	top: 19px;
+	
+ border-radius: 25px;
+	cursor: pointer;
+
+}
+.sear{
+	display: flex;
+	right: 100px;
+	position: relative;
+	top: 40px;
+	cursor: pointer;
+
+}
+
+form{
+	-webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: #a0d18c;
+     padding-left: 20px;
+}
+form input{
+  border: none;
+  outline: none;
+  width: 200px;
+  border-radius: 10px;
+
+
+
+}
+.cali{
+	background: transparent;
+	margin: 10px;
+	position: relative;
+	top: 19px;
+
+
+}
+.fa-cart-shopping{
+	
+	height: 15px;
+	width: 25px;
+	background: transparent;
+}
+.fa-heart{
+	height: 15px;
+	width: 25px;
+	background: transparent;
+
+}
+
+form .fa-magnifying-glass{
+  align-self: center;
+  padding: 15px 20px;
+  color: #777;
+}
+
+.sear{
+display: flex;
+	align-items: center;
+	position: absolute;
+	top: 32px;
+	
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+	background:transparent;
+    }
+.container{
+padding-left:200px;
+padding-top:0 ;
+ 
+}
+.filter{
+	
+	position: absolute;
+	top: 135px;
+	left: 10px;
+	
+	width: 250px;
+	height: 650px;
+
+}
+.price{
+	
+}
+.radio1{
+	
+	display: block;
+	padding: 5px;
+}
+
+
+.col-1 img{
+	height: 200px;
+  width: 200px;
+  padding: 10px 0;
+}
+.container-2{
+		
+		display: flex;
+		position: relative;
+		padding-top: 0;
+		margin: 0;
+		position: absolute;
+		top: 120px;
+		float: left;
+		width: 700pxpx;
+		left: 250px;
+		display: inline-block;
+		
+		
+}
+.row h2{
+	padding-top: 2rem;
+
+}
+.row{
+  position: relative;
+  
+  
+}
+.col-1{
+display: inline-block;
+
+
+
+
+}
+.col-1 :hover{
+	cursor: pointer;
+
+}
